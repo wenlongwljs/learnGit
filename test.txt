@@ -1,2 +1,3 @@
 Learnling Git.
 git add
+git is a free software
